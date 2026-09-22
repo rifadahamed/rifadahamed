@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
   
-<a href="https://api.whatsapp.com/send?phone=8801883753585" target="_blank" rel="noopener noreferrer">
+<a href="https://api.whatsapp.com/send?phone=8801883753585" onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
 </a>
   <a href="https://x.com/RifatAh13625354" target="_blank">
